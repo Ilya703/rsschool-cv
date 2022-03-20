@@ -18,13 +18,13 @@ My name is Ilya and I am 18 years old. The keen interest in Frontend developing 
 
 * I was developing projects for such companies as L'Oréal (LA POCHE POSAY, SkinCeuticals) and CERAVE working in [LightsOn](https://lights-on.pro/) as remote web layout developer. 
 
-* Also I was making little projects (mostly calculators) for [Siberia Tech](https://siberia-tech.ru/). 
+* Also I was making little projects (mostly calculators - [example](https://ilya703.github.io/Calculator-Dollar-2/)) for [Siberia Tech](https://siberia-tech.ru/). 
 
 I have got two huge team projects:
 
 * Once I participated one huge project for L'Oréal. We were working in team of 10-12 people and making an interactive many-pages site. The work was divided into subtasks and everyone was developing his own part. At the end we merged all parts into final result. It was an excellent experience of working within a team and communication by means of Git/GitHub. [Link on GitHub](https://github.com/vonLiebermann/Tender)
 
-* The second team project was connected with Adapt authoring tools (a special platform allowing to create courses with help of prepared components). LightsOn was making courses for Sber and it required to add more functional into ciurses. So our task was to create a new component. The team was consisted of 4 members. I was the main developer and others were helping me. The difficulty was in understanding documentary of that platform because it has no translation into Russian and I had to get information in English. Also this project was special for involving mostly JavaScript. [Link on GitHub](https://github.com/Ilya703/adapt-game)
+* The second team project was connected with Adapt authoring tools (a special platform allowing to create courses with help of prepared components). LightsOn was making courses for Sber and it required to add more functional into ciurses. So our task was to create a new component. The team was consisted of 4 members. I was the main developer and others were helping me. The difficulty was in understanding documentary of that platform because it has no translation into Russian and I had to get information in English. Also this project was special for involving mostly JavaScript. [Link on GitHub](https://github.com/Ilya703/adapt-game) - [project](https://ilya703.github.io/game)
 
 After these two projects I realised that I wanted to continue my studying towards JavaScript. I am still styding JavaScript and have already got to React. 
 
@@ -65,10 +65,10 @@ ALso I passed my exames in 2021 and got 98 points from 100 on Informatics. I use
 
 ## **Work experience**
 
-* Freelance \| web layout developer \| summer 2020, 2021
-* LightsOn \| remote web developer \| summer 2020 - now
-* Siberia Tech \| web layout developer \| summer 2021 - now
-* Umschool \| tutor on Informatics \| December 2021 - now
+* Freelance  \|  web layout developer  \|  summer 2020, 2021
+* LightsOn  \|  remote web developer  \|  summer 2020 - now
+* Siberia Tech  \|  web layout developer  \|  summer 2021 - now
+* Umschool  \|  tutor on Informatics  \|  December 2021 - now
 
 ## **Education**
 
