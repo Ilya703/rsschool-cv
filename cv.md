@@ -14,7 +14,7 @@
 
 ## **About me**
 
-My name is Ilya and I am 18 years old. The keen interest in Frontend developing appeared during the first coronavirus lockdown. I had pretty much free time and decided to begin something new. I completed cources dedicated to HTML & CSS & JavaScript and found my first freelance work. I was making sites with JavaScript elements for a while. Some customers provided me remote partnership. 
+My name is Ilya and I am 18 years old. The keen interest in Frontend developing appeared during the first coronavirus lockdown. I had pretty much free time and decided to begin something new. I completed cources dedicated to HTML & CSS & JavaScript and found my first freelance work. I was making sites with JavaScript elements for a while. In general I have already got 35+ done projects. Some customers provided me remote partnership. 
 
 * I was developing projects for such companies as L'Oréal (LA POCHE POSAY, SkinCeuticals) and CERAVE working in [LightsOn](https://lights-on.pro/) as remote web layout developer. 
 
@@ -46,7 +46,7 @@ ALso I passed my exames in 2021 and got 98 points from 100 on Informatics. I use
 * C++
 * Python 
 
-## **Code Examples**
+## **Code Example**
 
 ```
     tabsParent.addEventListener('click', (e) => {
@@ -65,10 +65,10 @@ ALso I passed my exames in 2021 and got 98 points from 100 on Informatics. I use
 
 ## **Work experience**
 
-* Freelance  \|  web layout developer  \|  summer 2020, 2021
-* LightsOn  \|  remote web developer  \|  summer 2020 - now
-* Siberia Tech  \|  web layout developer  \|  summer 2021 - now
-* Umschool  \|  tutor on Informatics  \|  December 2021 - now
+* Freelance  —  web layout developer  —  summer 2020, 2021
+* LightsOn  —  remote web developer  —  summer 2020 - now
+* Siberia Tech  —  web layout developer  —  summer 2021 - now
+* Umschool  —  tutor on Informatics  —  December 2021 - now
 
 ## **Education**
 
