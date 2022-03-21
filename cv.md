@@ -28,6 +28,11 @@ I have got two huge team projects:
 
 After these two projects I realised that I wanted to continue my studying towards JavaScript. I am still styding JavaScript and have already got to React. 
 
+My study projects using JavaScript developing: 
+
+* [link1](https://ilya703.github.io/Education-project-3/)
+* [link2](https://ilya703.github.io/Education-project-2/)
+
 Despite this short time line I think I have reached great achievements in Frontend. And this inspires me going ahead towards my big dream. 
 
 ## **My current situation**
