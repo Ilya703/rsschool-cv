@@ -44,8 +44,8 @@ ALso I passed my exames in 2021 and got 98 points from 100 on Informatics. I use
 ## **Skills**
 
 * HTML5
-* CSS3
-* JavaScript (ES6+, OOP, DOM)
+* CSS3 (SASS)
+* JavaScript (ES6+, OOP, DOM, AJAX)
 * Git/GitHub
 * Figma
 * C++
